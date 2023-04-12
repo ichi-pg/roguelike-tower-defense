@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 691bf53a417a94c4d994e2410d4fa0ee
+  m_SerializeEntries:
+  - m_GUID: 1f5aabab7d12a45bca7706cd30b4e972
+    m_Address: TitleScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3eb7a86ff566a4e45be94faffbff05c1
+    m_Address: QuestScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9be23d90b1dd4a94993f230a46cc24c
+    m_Address: HomeScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d19e495c4f4fb46b08b8c386fe20d8d7
+    m_Address: BattleScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27be90a47205e452a9d452db099eba22
+    m_Address: RoomScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43e33d7806c8045678aa4d0f43f93ecd
+    m_Address: FloorScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad7c336a3b3174b20ac258bc3d1b1862
+    m_Address: RootScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1feb75efffbc44983b9d9d1ac99f9e98
+    m_Address: CardScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96477fa8c91ff4a93a4125d80df39a03
+    m_Address: PlayerScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9abe0cc5992644ca088f6905e3b62d1e
+    m_Address: GirlScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67323df28dbda4aae911d755d725f0dd
+    m_Address: ResultScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c6ad5e41028ea4c6d9e237e7a79bc41a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 316e642256536423bb5cdd091b3ae0c5, type: 2}
+    - {fileID: 11400000, guid: 38315e150b8c943c0a0bd68e6c5a45ac, type: 2}

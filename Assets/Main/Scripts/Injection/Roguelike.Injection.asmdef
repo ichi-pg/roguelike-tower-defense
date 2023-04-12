@@ -1,0 +1,20 @@
+{
+    "name": "Roguelike.Injection",
+    "rootNamespace": "",
+    "references": [
+        "VContainer",
+        "Roguelike.Domain",
+        "Roguelike.Application",
+        "Roguelike.Infrastructure",
+        "Roguelike.Presentation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
